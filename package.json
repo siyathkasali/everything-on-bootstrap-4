@@ -1,0 +1,19 @@
+{
+  "name": "everything-on-bootstrap-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyathkasali/everything-on-bootstrap-4.git"
+  },
+  "author": "Siyath Kasali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siyathkasali/everything-on-bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/siyathkasali/everything-on-bootstrap-4#readme"
+}
